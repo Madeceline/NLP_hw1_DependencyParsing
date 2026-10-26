@@ -1,0 +1,254 @@
+{
+  "distance_group": [
+    {
+      "distance_group": "1",
+      "Tokens": 9869,
+      "UAS": 22.04883980139832,
+      "LAS": 6.748404093626507
+    },
+    {
+      "distance_group": "2-3",
+      "Tokens": 9158,
+      "UAS": 24.819829657130377,
+      "LAS": 6.715440052413191
+    },
+    {
+      "distance_group": "4-6",
+      "Tokens": 3543,
+      "UAS": 27.82952300310471,
+      "LAS": 10.471351961614452
+    },
+    {
+      "distance_group": "7+",
+      "Tokens": 2524,
+      "UAS": 30.507131537242472,
+      "LAS": 15.61014263074485
+    }
+  ],
+  "length_group": [
+    {
+      "length_group": "Short (1-10)",
+      "Tokens": 5874,
+      "UAS": 45.64181137214845,
+      "LAS": 21.00783112019067
+    },
+    {
+      "length_group": "Medium (11-25)",
+      "Tokens": 11306,
+      "UAS": 23.651158676808773,
+      "LAS": 5.837608349548913
+    },
+    {
+      "length_group": "Long (26+)",
+      "Tokens": 7914,
+      "UAS": 10.740459944402325,
+      "LAS": 1.92064695476371
+    }
+  ],
+  "relation": [
+    {
+      "relation": "punct",
+      "Tokens": 3065,
+      "UAS": 31.35399673735726,
+      "LAS": 27.04730831973899
+    },
+    {
+      "relation": "root",
+      "Tokens": 2077,
+      "UAS": 48.72412132883967,
+      "LAS": 48.72412132883967
+    },
+    {
+      "relation": "nsubj",
+      "Tokens": 2074,
+      "UAS": 35.53519768563163,
+      "LAS": 0.0
+    },
+    {
+      "relation": "case",
+      "Tokens": 1969,
+      "UAS": 3.605891315388522,
+      "LAS": 0.0
+    },
+    {
+      "relation": "det",
+      "Tokens": 1860,
+      "UAS": 5.161290322580645,
+      "LAS": 3.8172043010752685
+    },
+    {
+      "relation": "advmod",
+      "Tokens": 1315,
+      "UAS": 34.752851711026615,
+      "LAS": 0.0
+    },
+    {
+      "relation": "amod",
+      "Tokens": 1253,
+      "UAS": 11.093375897845172,
+      "LAS": 0.0
+    },
+    {
+      "relation": "nmod",
+      "Tokens": 1202,
+      "UAS": 6.821963394342761,
+      "LAS": 0.0
+    },
+    {
+      "relation": "obl",
+      "Tokens": 1165,
+      "UAS": 41.63090128755365,
+      "LAS": 0.0
+    },
+    {
+      "relation": "obj",
+      "Tokens": 1153,
+      "UAS": 41.45706851691241,
+      "LAS": 11.621856027753687
+    },
+    {
+      "relation": "compound",
+      "Tokens": 1103,
+      "UAS": 17.67905711695376,
+      "LAS": 0.0
+    },
+    {
+      "relation": "aux",
+      "Tokens": 939,
+      "UAS": 47.81682641107562,
+      "LAS": 0.0
+    },
+    {
+      "relation": "conj",
+      "Tokens": 861,
+      "UAS": 17.18931475029036,
+      "LAS": 0.0
+    },
+    {
+      "relation": "cc",
+      "Tokens": 755,
+      "UAS": 13.112582781456952,
+      "LAS": 0.0
+    },
+    {
+      "relation": "mark",
+      "Tokens": 752,
+      "UAS": 23.8031914893617,
+      "LAS": 0.0
+    },
+    {
+      "relation": "cop",
+      "Tokens": 576,
+      "UAS": 10.069444444444445,
+      "LAS": 0.0
+    },
+    {
+      "relation": "acl",
+      "Tokens": 376,
+      "UAS": 1.0638297872340425,
+      "LAS": 0.0
+    },
+    {
+      "relation": "advcl",
+      "Tokens": 367,
+      "UAS": 29.972752043596728,
+      "LAS": 0.0
+    },
+    {
+      "relation": "xcomp",
+      "Tokens": 363,
+      "UAS": 41.04683195592286,
+      "LAS": 0.0
+    },
+    {
+      "relation": "flat",
+      "Tokens": 335,
+      "UAS": 2.9850746268656714,
+      "LAS": 0.0
+    },
+    {
+      "relation": "nummod",
+      "Tokens": 254,
+      "UAS": 10.236220472440944,
+      "LAS": 0.0
+    },
+    {
+      "relation": "list",
+      "Tokens": 251,
+      "UAS": 3.9840637450199203,
+      "LAS": 0.0
+    },
+    {
+      "relation": "parataxis",
+      "Tokens": 232,
+      "UAS": 21.551724137931032,
+      "LAS": 0.0
+    },
+    {
+      "relation": "ccomp",
+      "Tokens": 223,
+      "UAS": 27.802690582959645,
+      "LAS": 0.0
+    },
+    {
+      "relation": "appos",
+      "Tokens": 179,
+      "UAS": 8.938547486033519,
+      "LAS": 0.0
+    },
+    {
+      "relation": "discourse",
+      "Tokens": 126,
+      "UAS": 47.61904761904761,
+      "LAS": 0.0
+    },
+    {
+      "relation": "iobj",
+      "Tokens": 71,
+      "UAS": 42.25352112676056,
+      "LAS": 0.0
+    },
+    {
+      "relation": "expl",
+      "Tokens": 68,
+      "UAS": 33.82352941176471,
+      "LAS": 0.0
+    },
+    {
+      "relation": "fixed",
+      "Tokens": 64,
+      "UAS": 4.6875,
+      "LAS": 0.0
+    },
+    {
+      "relation": "csubj",
+      "Tokens": 25,
+      "UAS": 16.0,
+      "LAS": 0.0
+    },
+    {
+      "relation": "vocative",
+      "Tokens": 21,
+      "UAS": 4.761904761904762,
+      "LAS": 0.0
+    },
+    {
+      "relation": "goeswith",
+      "Tokens": 15,
+      "UAS": 0.0,
+      "LAS": 0.0
+    },
+    {
+      "relation": "reparandum",
+      "Tokens": 4,
+      "UAS": 25.0,
+      "LAS": 0.0
+    },
+    {
+      "relation": "orphan",
+      "Tokens": 1,
+      "UAS": 0.0,
+      "LAS": 0.0
+    }
+  ]
+}

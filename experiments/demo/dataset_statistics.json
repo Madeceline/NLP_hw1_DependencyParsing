@@ -1,0 +1,26 @@
+[
+  {
+    "split": "train",
+    "sentences": 128,
+    "words": 2587,
+    "mean_length": 20.2109375,
+    "max_length": 76,
+    "oov_percent": 0.0
+  },
+  {
+    "split": "dev",
+    "sentences": 40,
+    "words": 960,
+    "mean_length": 24.0,
+    "max_length": 55,
+    "oov_percent": 33.4375
+  },
+  {
+    "split": "test",
+    "sentences": 2077,
+    "words": 25094,
+    "mean_length": 12.08184882041406,
+    "max_length": 81,
+    "oov_percent": 37.93735554315773
+  }
+]

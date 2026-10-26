@@ -1,0 +1,29 @@
+[
+  {
+    "name": "baseline",
+    "parameters": 1859192,
+    "training_seconds": 350.47003207499984,
+    "best_epoch": 29,
+    "best_dev_LAS": 32.534096783172295,
+    "epochs_run": 30,
+    "device": "cuda"
+  },
+  {
+    "name": "word_only",
+    "parameters": 4043752,
+    "training_seconds": 473.8210053140001,
+    "best_epoch": 29,
+    "best_dev_LAS": 78.97331901864885,
+    "epochs_run": 30,
+    "device": "cuda"
+  },
+  {
+    "name": "word_pos",
+    "parameters": 4095592,
+    "training_seconds": 561.321060621,
+    "best_epoch": 29,
+    "best_dev_LAS": 88.22219571354726,
+    "epochs_run": 30,
+    "device": "cuda"
+  }
+]

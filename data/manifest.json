@@ -1,0 +1,37 @@
+{
+  "release": "UD 2.15",
+  "treebank": "English-EWT",
+  "commit": "4dc8e10cf32352e11ab2c46e024b19853b91546e",
+  "files": {
+    "data/raw/en_ewt-ud-train.conllu": {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/4dc8e10cf32352e11ab2c46e024b19853b91546e/en_ewt-ud-train.conllu",
+      "sha256": "a049fc40822e21593ff89ccd0a4b081443f09fae71b61f813c624aa598f6c566",
+      "bytes": 14190227
+    },
+    "data/raw/en_ewt-ud-dev.conllu": {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/4dc8e10cf32352e11ab2c46e024b19853b91546e/en_ewt-ud-dev.conllu",
+      "sha256": "14a82ce2c4c4648c3e7c4efc76872c85c5f4c39643fcb7f9c91a45a58157a270",
+      "bytes": 1804172
+    },
+    "data/raw/en_ewt-ud-test.conllu": {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/4dc8e10cf32352e11ab2c46e024b19853b91546e/en_ewt-ud-test.conllu",
+      "sha256": "0612e45914359e4b36d187ef2bfeaf66fc8933210925be985c5fbf6a9e311036",
+      "bytes": 1803651
+    },
+    "data/raw/LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/4dc8e10cf32352e11ab2c46e024b19853b91546e/LICENSE.txt",
+      "sha256": "b3d1b0f4c6ae151f7eb78738f46ebd5ee140f8a7f76501ba26af123140d35ae7",
+      "bytes": 20014
+    },
+    "data/raw/README_treebank.md": {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/4dc8e10cf32352e11ab2c46e024b19853b91546e/README.md",
+      "sha256": "fc0c5d1344f56442af1501c8c2c850c002924ab6fe20f7de6f8667c1ebc46a79",
+      "bytes": 16722
+    },
+    "vendor/conll18_ud_eval.py": {
+      "url": "https://universaldependencies.org/conll18/conll18_ud_eval.py",
+      "sha256": "1072e02af00b1a56205b5e8216d51dee9b8944a104d80744afaccc78859fcb16",
+      "bytes": 27773
+    }
+  }
+}

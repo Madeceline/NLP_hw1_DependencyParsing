@@ -1,0 +1,167 @@
+[
+  {
+    "index": 0,
+    "text": "What if Google Morphed Into GoogleOS?",
+    "gold_heads": [
+      -1,
+      0,
+      4,
+      4,
+      1,
+      6,
+      4,
+      4
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "root",
+      "mark",
+      "nsubj",
+      "advcl",
+      "case",
+      "obl",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      4,
+      4,
+      4,
+      0,
+      4,
+      4,
+      4
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "punct",
+      "punct",
+      "punct",
+      "root",
+      "punct",
+      "punct",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "index": 2,
+    "text": "[via Microsoft Watch from Mary Jo Foley ]",
+    "gold_heads": [
+      -1,
+      4,
+      4,
+      4,
+      0,
+      6,
+      4,
+      6,
+      6,
+      4
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "punct",
+      "case",
+      "compound",
+      "root",
+      "case",
+      "nmod",
+      "flat",
+      "flat",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      8,
+      4,
+      4,
+      8,
+      8,
+      4,
+      4,
+      0,
+      8
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "punct",
+      "punct",
+      "punct",
+      "punct",
+      "punct",
+      "punct",
+      "punct",
+      "root",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "index": 5,
+    "text": "Google is a nice search engine.",
+    "gold_heads": [
+      -1,
+      6,
+      6,
+      6,
+      6,
+      6,
+      0,
+      6
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "nsubj",
+      "cop",
+      "det",
+      "amod",
+      "compound",
+      "root",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      6,
+      6,
+      6,
+      6,
+      6,
+      0,
+      6
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "punct",
+      "det",
+      "det",
+      "punct",
+      "punct",
+      "root",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      2,
+      4,
+      5
+    ]
+  }
+]

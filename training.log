@@ -1,0 +1,80 @@
+baseline: device=cuda, parameters=1,859,192, train=12544
+word_only: device=cuda, parameters=4,043,752, train=12544
+word_pos: device=cuda, parameters=4,095,592, train=12544
+baseline epoch=18 loss=2.5795 dev_UAS=36.45 dev_LAS=31.43 seconds=13.1 *
+word_only epoch=01 loss=3.7052 dev_UAS=63.32 dev_LAS=51.13 seconds=22.5 *
+word_pos epoch=01 loss=2.2690 dev_UAS=78.39 dev_LAS=74.02 seconds=23.0 *
+baseline epoch=19 loss=2.5731 dev_UAS=36.63 dev_LAS=31.65 seconds=12.7 *
+baseline epoch=20 loss=2.5600 dev_UAS=36.72 dev_LAS=31.70 seconds=12.5 *
+word_only epoch=02 loss=2.3367 dev_UAS=69.91 dev_LAS=58.99 seconds=21.4 *
+word_pos epoch=02 loss=1.0887 dev_UAS=82.87 dev_LAS=79.36 seconds=22.1 *
+baseline epoch=21 loss=2.5574 dev_UAS=36.76 dev_LAS=31.78 seconds=13.5 *
+baseline epoch=22 loss=2.5482 dev_UAS=36.88 dev_LAS=32.02 seconds=13.1 *
+word_only epoch=03 loss=2.0009 dev_UAS=71.75 dev_LAS=61.86 seconds=20.5 *
+word_pos epoch=03 loss=0.9037 dev_UAS=84.16 dev_LAS=81.07 seconds=20.1 *
+baseline epoch=23 loss=2.5408 dev_UAS=36.84 dev_LAS=31.99 seconds=5.4 
+baseline epoch=24 loss=2.5333 dev_UAS=37.03 dev_LAS=32.18 seconds=9.5 *
+word_only epoch=04 loss=1.8219 dev_UAS=74.75 dev_LAS=65.55 seconds=21.7 *
+word_pos epoch=04 loss=0.8049 dev_UAS=85.83 dev_LAS=83.01 seconds=21.8 *
+baseline epoch=25 loss=2.5306 dev_UAS=37.13 dev_LAS=32.24 seconds=12.6 *
+baseline epoch=26 loss=2.5251 dev_UAS=37.23 dev_LAS=32.26 seconds=13.2 *
+word_only epoch=05 loss=1.6971 dev_UAS=76.41 dev_LAS=67.70 seconds=20.5 *
+word_pos epoch=05 loss=0.7340 dev_UAS=86.84 dev_LAS=83.98 seconds=21.9 *
+baseline epoch=27 loss=2.5200 dev_UAS=37.14 dev_LAS=32.28 seconds=13.3 *
+word_only epoch=06 loss=1.5852 dev_UAS=77.58 dev_LAS=69.52 seconds=19.9 *
+word_pos epoch=06 loss=0.6680 dev_UAS=87.31 dev_LAS=84.68 seconds=19.4 *
+baseline epoch=28 loss=2.5143 dev_UAS=37.39 dev_LAS=32.42 seconds=12.6 *
+baseline epoch=29 loss=2.5074 dev_UAS=37.29 dev_LAS=32.53 seconds=13.3 *
+word_only epoch=07 loss=1.5206 dev_UAS=78.40 dev_LAS=70.59 seconds=20.6 *
+word_pos epoch=07 loss=0.6413 dev_UAS=87.70 dev_LAS=85.21 seconds=19.9 *
+baseline epoch=30 loss=2.5028 dev_UAS=37.24 dev_LAS=32.44 seconds=12.7 
+word_only epoch=08 loss=1.4466 dev_UAS=78.77 dev_LAS=71.22 seconds=20.1 *
+word_pos epoch=08 loss=0.5980 dev_UAS=88.17 dev_LAS=85.84 seconds=20.2 *
+word_only epoch=09 loss=1.3994 dev_UAS=79.39 dev_LAS=72.20 seconds=18.7 *
+word_pos epoch=09 loss=0.5732 dev_UAS=88.35 dev_LAS=86.06 seconds=19.3 *
+word_only epoch=10 loss=1.3543 dev_UAS=80.07 dev_LAS=73.10 seconds=20.5 *
+word_pos epoch=10 loss=0.5481 dev_UAS=88.43 dev_LAS=86.19 seconds=20.8 *
+word_only epoch=11 loss=1.3172 dev_UAS=80.48 dev_LAS=73.93 seconds=20.6 *
+word_pos epoch=11 loss=0.5225 dev_UAS=88.60 dev_LAS=86.44 seconds=21.0 *
+word_only epoch=12 loss=1.2619 dev_UAS=80.96 dev_LAS=74.36 seconds=20.4 *
+word_pos epoch=12 loss=0.4977 dev_UAS=88.88 dev_LAS=86.66 seconds=20.6 *
+word_only epoch=13 loss=1.2375 dev_UAS=81.81 dev_LAS=75.38 seconds=20.7 *
+word_pos epoch=13 loss=0.4872 dev_UAS=88.91 dev_LAS=86.77 seconds=20.9 *
+word_only epoch=14 loss=1.2143 dev_UAS=81.94 dev_LAS=75.76 seconds=18.0 *
+word_pos epoch=14 loss=0.4703 dev_UAS=89.14 dev_LAS=86.97 seconds=19.8 *
+word_only epoch=15 loss=1.1844 dev_UAS=82.02 dev_LAS=75.76 seconds=6.5 
+word_only epoch=16 loss=1.1576 dev_UAS=82.45 dev_LAS=76.38 seconds=6.3 *
+word_only epoch=17 loss=1.1343 dev_UAS=82.34 dev_LAS=76.55 seconds=8.3 *
+word_pos epoch=15 loss=0.4550 dev_UAS=89.24 dev_LAS=87.07 seconds=19.1 *
+word_only epoch=18 loss=1.1143 dev_UAS=82.83 dev_LAS=77.00 seconds=6.4 *
+word_only epoch=19 loss=1.0858 dev_UAS=82.88 dev_LAS=77.10 seconds=6.3 *
+word_only epoch=20 loss=1.0699 dev_UAS=82.53 dev_LAS=76.99 seconds=6.3 
+word_pos epoch=16 loss=0.4415 dev_UAS=89.19 dev_LAS=87.06 seconds=19.2 
+word_only epoch=21 loss=1.0584 dev_UAS=83.13 dev_LAS=77.42 seconds=11.9 *
+word_pos epoch=17 loss=0.4247 dev_UAS=89.32 dev_LAS=87.32 seconds=20.8 *
+word_only epoch=22 loss=1.0460 dev_UAS=83.12 dev_LAS=77.64 seconds=18.2 *
+word_only epoch=23 loss=1.0213 dev_UAS=83.34 dev_LAS=78.03 seconds=6.2 *
+word_pos epoch=18 loss=0.4229 dev_UAS=89.28 dev_LAS=87.20 seconds=19.9 
+word_only epoch=24 loss=1.0127 dev_UAS=83.14 dev_LAS=77.92 seconds=16.2 
+word_pos epoch=19 loss=0.4083 dev_UAS=89.27 dev_LAS=87.22 seconds=21.2 
+word_only epoch=25 loss=1.0003 dev_UAS=83.80 dev_LAS=78.52 seconds=16.3 *
+word_only epoch=26 loss=0.9856 dev_UAS=83.73 dev_LAS=78.45 seconds=6.3 
+word_only epoch=27 loss=0.9739 dev_UAS=83.62 dev_LAS=78.34 seconds=6.2 
+word_pos epoch=20 loss=0.4011 dev_UAS=89.82 dev_LAS=87.78 seconds=19.4 *
+word_only epoch=28 loss=0.9569 dev_UAS=84.00 dev_LAS=78.67 seconds=19.5 *
+word_pos epoch=21 loss=0.3934 dev_UAS=89.82 dev_LAS=87.76 seconds=20.8 
+word_only epoch=29 loss=0.9448 dev_UAS=84.04 dev_LAS=78.97 seconds=20.8 *
+word_pos epoch=22 loss=0.3850 dev_UAS=89.78 dev_LAS=87.75 seconds=20.9 
+word_only epoch=30 loss=0.9367 dev_UAS=84.01 dev_LAS=78.91 seconds=19.6 
+word_pos epoch=23 loss=0.3765 dev_UAS=89.93 dev_LAS=88.01 seconds=19.5 *
+word_pos epoch=24 loss=0.3720 dev_UAS=89.78 dev_LAS=87.76 seconds=18.6 
+word_pos epoch=25 loss=0.3630 dev_UAS=90.10 dev_LAS=88.14 seconds=18.4 *
+word_pos epoch=26 loss=0.3555 dev_UAS=89.91 dev_LAS=88.02 seconds=18.4 
+word_pos epoch=27 loss=0.3555 dev_UAS=90.12 dev_LAS=88.14 seconds=10.1 *
+word_pos epoch=28 loss=0.3463 dev_UAS=89.94 dev_LAS=87.94 seconds=6.1 
+word_pos epoch=29 loss=0.3363 dev_UAS=90.11 dev_LAS=88.22 seconds=6.1 *
+word_pos epoch=30 loss=0.3351 dev_UAS=90.02 dev_LAS=88.21 seconds=6.1 
+TEST baseline: {'tokens': 25094, 'UAS': 38.116681278393244, 'LAS': 33.13142583884594} official={'UAS': 38.116681278393244, 'LAS': 33.466167211285565}
+TEST word_only: {'tokens': 25094, 'UAS': 84.01609946600782, 'LAS': 79.23407985972743} official={'UAS': 84.01609946600782, 'LAS': 79.56483621582848}
+TEST word_pos: {'tokens': 25094, 'UAS': 89.6907627321272, 'LAS': 87.83374511835498} official={'UAS': 89.69076273212721, 'LAS': 88.02901091894478}
+COMPLETE: experiments/full; selected on dev: word_pos

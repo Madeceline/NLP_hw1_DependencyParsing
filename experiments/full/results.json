@@ -1,0 +1,107 @@
+[
+  {
+    "name": "baseline",
+    "parameters": 1859192,
+    "training_seconds": 350.47003207499984,
+    "best_epoch": 29,
+    "best_dev_LAS": 32.534096783172295,
+    "epochs_run": 30,
+    "device": "cuda",
+    "test": {
+      "all_full": {
+        "tokens": 25094,
+        "UAS": 38.116681278393244,
+        "LAS": 33.13142583884594
+      },
+      "all_coarse": {
+        "tokens": 25094,
+        "UAS": 38.116681278393244,
+        "LAS": 33.466167211285565
+      },
+      "no_punct_full": {
+        "tokens": 21998,
+        "UAS": 37.98072552050186,
+        "LAS": 32.29384489499046
+      }
+    },
+    "official": {
+      "UAS": 38.116681278393244,
+      "LAS": 33.466167211285565
+    },
+    "inference": {
+      "seconds": 0.807848818000366,
+      "tokens_per_second": 31062.742732129158,
+      "sentences_per_second": 2571.0256098920963
+    }
+  },
+  {
+    "name": "word_only",
+    "parameters": 4043752,
+    "training_seconds": 473.8210053140001,
+    "best_epoch": 29,
+    "best_dev_LAS": 78.97331901864885,
+    "epochs_run": 30,
+    "device": "cuda",
+    "test": {
+      "all_full": {
+        "tokens": 25094,
+        "UAS": 84.01609946600782,
+        "LAS": 79.23407985972743
+      },
+      "all_coarse": {
+        "tokens": 25094,
+        "UAS": 84.01609946600782,
+        "LAS": 79.56483621582848
+      },
+      "no_punct_full": {
+        "tokens": 21998,
+        "UAS": 84.06218747158833,
+        "LAS": 78.69806346031457
+      }
+    },
+    "official": {
+      "UAS": 84.01609946600782,
+      "LAS": 79.56483621582848
+    },
+    "inference": {
+      "seconds": 0.4494257189999189,
+      "tokens_per_second": 55835.7008491642,
+      "sentences_per_second": 4621.453361907788
+    }
+  },
+  {
+    "name": "word_pos",
+    "parameters": 4095592,
+    "training_seconds": 561.321060621,
+    "best_epoch": 29,
+    "best_dev_LAS": 88.22219571354726,
+    "epochs_run": 30,
+    "device": "cuda",
+    "test": {
+      "all_full": {
+        "tokens": 25094,
+        "UAS": 89.6907627321272,
+        "LAS": 87.83374511835498
+      },
+      "all_coarse": {
+        "tokens": 25094,
+        "UAS": 89.6907627321272,
+        "LAS": 88.02901091894476
+      },
+      "no_punct_full": {
+        "tokens": 21998,
+        "UAS": 89.79907264296754,
+        "LAS": 87.68069824529503
+      }
+    },
+    "official": {
+      "UAS": 89.69076273212721,
+      "LAS": 88.02901091894478
+    },
+    "inference": {
+      "seconds": 0.404497031000119,
+      "tokens_per_second": 62037.53816920504,
+      "sentences_per_second": 5134.771928645847
+    }
+  }
+]

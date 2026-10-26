@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "device": "auto",
+  "threads": 4,
+  "batch_size": 32,
+  "epochs": 30,
+  "patience": 5,
+  "learning_rate": 0.001,
+  "gradient_clip": 5.0,
+  "relation_weight": 1.0,
+  "word_dropout": 0.10,
+  "model": {
+    "word_dim": 100,
+    "pos_dim": 32,
+    "hidden": 200,
+    "layers": 2,
+    "arc_dim": 300,
+    "rel_dim": 100,
+    "dropout": 0.33
+  }
+}

@@ -1,0 +1,34 @@
+# newdoc id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200
+# sent_id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-0001
+# newpar id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-p0001
+# text = What if Google Morphed Into GoogleOS?
+1	What	what	PRON	WP	PronType=Int	_	_	_	Cxn=Conditional-Interrogative|CxnElt=1:Conditional-Interrogative.Apodosis
+2	if	if	SCONJ	IN	_	_	_	_	_
+3	Google	Google	PROPN	NNP	Number=Sing	_	_	_	_
+4	Morphed	morph	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	CxnElt=1:Conditional-Interrogative.Protasis
+5	Into	into	ADP	IN	_	_	_	_	_
+6	GoogleOS	GoogleOS	PROPN	NNP	Number=Sing	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	.	_	_	_	_	_
+
+# sent_id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-0003
+# text = [via Microsoft Watch from Mary Jo Foley ]
+1	[	[	PUNCT	-LRB-	_	_	_	_	SpaceAfter=No
+2	via	via	ADP	IN	_	_	_	_	_
+3	Microsoft	Microsoft	PROPN	NNP	Number=Sing	_	_	_	_
+4	Watch	Watch	PROPN	NNP	Number=Sing	_	_	_	_
+5	from	from	ADP	IN	_	_	_	_	_
+6	Mary	Mary	PROPN	NNP	Number=Sing	_	_	_	_
+7	Jo	Jo	PROPN	NNP	Number=Sing	_	_	_	_
+8	Foley	Foley	PROPN	NNP	Number=Sing	_	_	_	_
+9	]	]	PUNCT	-RRB-	_	_	_	_	_
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0003
+# text = Google is a nice search engine.
+1	Google	Google	PROPN	NNP	Number=Sing	_	_	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	_	_	_	_
+4	nice	nice	ADJ	JJ	Degree=Pos	_	_	_	_
+5	search	search	NOUN	NN	Number=Sing	_	_	_	_
+6	engine	engine	NOUN	NN	Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	_	_	_	_
+

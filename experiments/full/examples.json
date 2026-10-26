@@ -1,0 +1,158 @@
+[
+  {
+    "index": 0,
+    "text": "What if Google Morphed Into GoogleOS?",
+    "gold_heads": [
+      -1,
+      0,
+      4,
+      4,
+      1,
+      6,
+      4,
+      4
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "root",
+      "mark",
+      "nsubj",
+      "advcl",
+      "case",
+      "obl",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      4,
+      4,
+      4,
+      0,
+      6,
+      4,
+      4
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "obj",
+      "mark",
+      "nsubj",
+      "root",
+      "case",
+      "obl",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      4
+    ]
+  },
+  {
+    "index": 2,
+    "text": "[via Microsoft Watch from Mary Jo Foley ]",
+    "gold_heads": [
+      -1,
+      4,
+      4,
+      4,
+      0,
+      6,
+      4,
+      6,
+      6,
+      4
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "punct",
+      "case",
+      "compound",
+      "root",
+      "case",
+      "nmod",
+      "flat",
+      "flat",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      3,
+      3,
+      0,
+      3,
+      6,
+      3,
+      6,
+      6,
+      3
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "punct",
+      "case",
+      "root",
+      "flat",
+      "case",
+      "nmod",
+      "flat",
+      "flat",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      9
+    ]
+  },
+  {
+    "index": 8,
+    "text": "Is that a money maker?",
+    "gold_heads": [
+      -1,
+      5,
+      5,
+      5,
+      5,
+      0,
+      5
+    ],
+    "gold_relations": [
+      "<ROOT>",
+      "cop",
+      "nsubj",
+      "det",
+      "compound",
+      "root",
+      "punct"
+    ],
+    "pred_heads": [
+      -1,
+      4,
+      4,
+      4,
+      0,
+      4,
+      4
+    ],
+    "pred_relations": [
+      "<ROOT>",
+      "cop",
+      "nsubj",
+      "det",
+      "root",
+      "nmod:unmarked",
+      "punct"
+    ],
+    "wrong_positions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

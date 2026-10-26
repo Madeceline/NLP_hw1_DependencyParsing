@@ -1,0 +1,38 @@
+{
+  "python": "3.10.12",
+  "platform": "Linux-5.15.0-140-generic-x86_64-with-glibc2.35",
+  "torch": "2.9.1+cu128",
+  "numpy": "2.2.6",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "dependencies": {
+    "torch": "2.9.1",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "pytest": "9.1.1"
+  },
+  "data_commit": "4dc8e10cf32352e11ab2c46e024b19853b91546e",
+  "parallel_training": true,
+  "config": {
+    "seed": 42,
+    "device": "auto",
+    "threads": 4,
+    "batch_size": 32,
+    "epochs": 30,
+    "patience": 5,
+    "learning_rate": 0.001,
+    "gradient_clip": 5.0,
+    "relation_weight": 1.0,
+    "word_dropout": 0.1,
+    "model": {
+      "word_dim": 100,
+      "pos_dim": 32,
+      "hidden": 200,
+      "layers": 2,
+      "arc_dim": 300,
+      "rel_dim": 100,
+      "dropout": 0.33
+    }
+  }
+}

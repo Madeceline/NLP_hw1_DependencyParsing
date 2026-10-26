@@ -1,0 +1,33 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch": "2.11.0+cpu",
+  "numpy": "1.26.4",
+  "cuda": null,
+  "gpu": null,
+  "data_commit": "4dc8e10cf32352e11ab2c46e024b19853b91546e",
+  "config": {
+    "seed": 42,
+    "device": "auto",
+    "threads": 2,
+    "batch_size": 16,
+    "epochs": 2,
+    "patience": 2,
+    "learning_rate": 0.001,
+    "gradient_clip": 5.0,
+    "relation_weight": 1.0,
+    "word_dropout": 0.1,
+    "train_limit": 128,
+    "dev_limit": 40,
+    "run_name": "demo",
+    "model": {
+      "word_dim": 32,
+      "pos_dim": 12,
+      "hidden": 32,
+      "layers": 1,
+      "arc_dim": 48,
+      "rel_dim": 24,
+      "dropout": 0.2
+    }
+  }
+}

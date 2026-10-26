@@ -1,0 +1,29 @@
+[
+  {
+    "name": "baseline",
+    "parameters": 38823,
+    "training_seconds": 0.6526940999992803,
+    "best_epoch": 2,
+    "best_dev_LAS": 1.9791666666666667,
+    "epochs_run": 2,
+    "device": "cpu"
+  },
+  {
+    "name": "word_only",
+    "parameters": 86235,
+    "training_seconds": 1.0360010999993392,
+    "best_epoch": 2,
+    "best_dev_LAS": 0.9375,
+    "epochs_run": 2,
+    "device": "cpu"
+  },
+  {
+    "name": "word_pos",
+    "parameters": 89511,
+    "training_seconds": 1.0265556999984256,
+    "best_epoch": 2,
+    "best_dev_LAS": 5.416666666666667,
+    "epochs_run": 2,
+    "device": "cpu"
+  }
+]

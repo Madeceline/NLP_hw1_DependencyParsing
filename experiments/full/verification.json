@@ -1,0 +1,32 @@
+{
+  "notebook_code_cells_executed": 17,
+  "notebook_error_outputs": 0,
+  "unit_tests": "单元测试通过数量： 18",
+  "full_test_words": 25094,
+  "training_epochs_per_model": 30,
+  "models": 3,
+  "official_custom_coarse_match": true,
+  "artifacts": {
+    "notebooks/Assignment_1_System_Implementation_and_Evaluation.ipynb": {
+      "bytes": 1020528,
+      "sha256": "9862f5ef29e0473e7f1c3d1ba2de02109c6ebd5dcfa038935df43d29c46fd55e"
+    },
+    "checkpoints/full/baseline/best.pt": {
+      "bytes": 7787443,
+      "sha256": "f2679a18f8352a252006eb6b17fbcaf4d3ff1f5088eca4af25d86bcee996b90a"
+    },
+    "checkpoints/full/word_only/best.pt": {
+      "bytes": 16526207,
+      "sha256": "d900cd982f1e7c6e2f9f8dc50978f09405bb0a746cad9f573cc9ab49f5de94a4"
+    },
+    "checkpoints/full/word_pos/best.pt": {
+      "bytes": 16733884,
+      "sha256": "6fa1ac7d0ba6bdcb516727e4692d430f9d601b655eadd93b4df9e134a1466b71"
+    }
+  },
+  "localization": {
+    "language": "zh-CN",
+    "own_source_files_checked": 14,
+    "official_evaluator_unchanged": true
+  }
+}

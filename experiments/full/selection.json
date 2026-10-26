@@ -1,0 +1,5 @@
+{
+  "selected_model": "word_pos",
+  "criterion": "maximum validation all-token full-label LAS",
+  "test_used_for_selection": false
+}
